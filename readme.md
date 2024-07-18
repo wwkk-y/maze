@@ -1,9 +1,6 @@
 # 项目信息
 
-- 地址: [GitHub maze](https://github.com/wwkk-y/maze)
-- 可执行文件: [maze.exe](/file/maze/maze.exe) (windows)
 - 博客: [C++实现迷宫](http://mywhp.cn/blog/#/blog/37)
-- 视频演示: [视频文件夹](/file/maze)
 
 # 算法讲解
 
