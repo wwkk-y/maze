@@ -1,0 +1,33 @@
+﻿  DfsMaze.cpp
+E:\Dev-Cpp\代码\C++\迷宫\maze\win.h(73,24): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\win.h(73,27): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\win.h(75,32): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\win.h(75,35): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\DfsMaze.cpp(32,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Dev-Cpp\代码\C++\迷宫\maze\DfsMaze.cpp(102,32): warning C4838: 从“unsigned __int64”转换到“int”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\DfsMaze.cpp(102,59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Dev-Cpp\代码\C++\迷宫\maze\DfsMaze.cpp(102,55): warning C4838: 从“unsigned __int64”转换到“int”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\DfsMaze.cpp(141,32): warning C4838: 从“unsigned __int64”转换到“int”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\DfsMaze.cpp(141,59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Dev-Cpp\代码\C++\迷宫\maze\DfsMaze.cpp(141,55): warning C4838: 从“unsigned __int64”转换到“int”需要收缩转换
+F:\VS\IDE\VC\Tools\MSVC\14.33.31629\include\algorithm(4814,64): warning C4244: “参数”: 从“_Diff”转换到“int”，可能丢失数据
+F:\VS\IDE\VC\Tools\MSVC\14.33.31629\include\algorithm(4890): message : 查看对正在编译的函数 模板 实例化“void std::_Random_shuffle1<_RanIt,_RngFn>(_RanIt,_RanIt,_RngFn &)”的引用
+          with
+          [
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::array<int,2>>>>,
+              _RngFn=DfsMaze::flush::<lambda_1>
+          ]
+E:\Dev-Cpp\代码\C++\迷宫\maze\DfsMaze.cpp(60): message : 查看对正在编译的函数 模板 实例化“void std::random_shuffle<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,DfsMaze::flush::<lambda_1>>(_RanIt,_RanIt,_RngFn &&)”的引用
+          with
+          [
+              _Ty=std::array<int,2>,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::array<int,2>>>>,
+              _RngFn=DfsMaze::flush::<lambda_1>
+          ]
+  Main.cpp
+E:\Dev-Cpp\代码\C++\迷宫\maze\win.h(73,24): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\win.h(73,27): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\win.h(75,32): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\Dev-Cpp\代码\C++\迷宫\maze\win.h(75,35): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  正在生成代码...
+  maze.vcxproj -> E:\Dev-Cpp\代码\C++\迷宫\maze\x64\Debug\maze.exe
