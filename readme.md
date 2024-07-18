@@ -1,6 +1,7 @@
 # 项目信息
 
 - 博客: [C++实现迷宫](http://mywhp.cn/blog/#/blog/37)
+- 可执行文件: [maze.exe](http://mywhp.cn/file/maze/maze.exe)(windows)
 
 # 算法讲解
 
